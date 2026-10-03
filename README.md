@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="assets/Resume-EN.pdf"><img src="https://img.shields.io/badge/Resume_(EN)-PDF-0F766E?style=for-the-badge" alt="Resume EN"></a>
-  <a href="assets/Resume-FA.pdf"><img src="https://img.shields.io/badge/Resume_(FA)-PDF-B45309?style=for-the-badge" alt="Resume FA"></a>
+  <a href="assets/Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_(EN)-PDF-0F766E?style=for-the-badge" alt="Resume EN"></a>
+  <a href="assets/Resume_FA.pdf"><img src="https://img.shields.io/badge/Resume_(FA)-PDF-B45309?style=for-the-badge" alt="Resume FA"></a>
 </p>
 
 ### 👨‍💻 About me
@@ -36,9 +36,11 @@
 
 **Languages** — ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Embedded** — ![STM32](https://img.shields.io/badge/STM32%20F4%2FF7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2B6CB0?style=flat-square) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-3C5CA8?style=flat-square&logo=espressif&logoColor=white) ![Keil](https://img.shields.io/badge/Keil%20MDK-47A942?style=flat-square)
+**Embedded** — ![STM32](https://img.shields.io/badge/STM32%20F4%2FF7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2B6CB0?style=flat-square) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-3C5CA8?style=flat-square&logo=espressif&logoColor=white) ![Keil](https://img.shields.io/badge/Keil%20MDK-47A942?style=flat-square) ![CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square) ![CubeMX](https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square)
 
 **Protocols & Data** — ![UART](https://img.shields.io/badge/UART%20%2F%20I%C2%B2C-5A5A5A?style=flat-square) ![RS-485](https://img.shields.io/badge/RS--485-E4572E?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Modbus](https://img.shields.io/badge/Modbus%20RTU-E4572E?style=flat-square) ![DMA](https://img.shields.io/badge/DMA-4C6EF5?style=flat-square)
+
+**Smart Home & DevOps** — ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **AI & Tools** — ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LVGL](https://img.shields.io/badge/LVGL-18BC9C?style=flat-square&logo=lvgl&logoColor=white) ![Doxygen](https://img.shields.io/badge/Doxygen-202432?style=flat-square&logo=doxygen&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
