@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="assets/Mohammad_Soroush_Rabiei_Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_(EN)-PDF-0F766E?style=for-the-badge" alt="Resume EN"></a>
-  <a href="assets/Mohammad_Soroush_Rabiei_Resume_FA.pdf"><img src="https://img.shields.io/badge/Resume_(FA)-PDF-B45309?style=for-the-badge" alt="Resume FA"></a>
+  <a href="assets/Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_(EN)-PDF-0F766E?style=for-the-badge" alt="Resume EN"></a>
+  <a href="assets/Resume_FA.pdf"><img src="https://img.shields.io/badge/Resume_(FA)-PDF-B45309?style=for-the-badge" alt="Resume FA"></a>
 </p>
 
 ### 👨‍💻 About me
