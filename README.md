@@ -13,17 +13,17 @@
   <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://t.me/MSoroushRabiei"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://ble.ir/msoroushrabiei"><img src="https://img.shields.io/badge/Bale-00A9B5?style=flat-square" alt="Bale" /></a>
-  <a href="assets/Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_EN-1E293B?style=flat-square" alt="Resume EN" /></a>
-  <a href="assets/Resume_FA.pdf"><img src="https://img.shields.io/badge/Resume_FA-1E293B?style=flat-square" alt="Resume FA" /></a>
+  <a href="https://ble.ir/msoroushrabiei"><img src="assets/bale-icon.png" width="20" height="20" alt="Bale" />&nbsp;<img src="https://img.shields.io/badge/Bale-00A9B5?style=flat-square" alt="Bale" /></a>
+  <a href="assets/Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_EN-1E293B?style=flat-square&logo=googledocs&logoColor=white" alt="Resume EN" /></a>
+  <a href="assets/Resume_FA.pdf"><img src="https://img.shields.io/badge/Resume_FA-1E293B?style=flat-square&logo=googledocs&logoColor=white" alt="Resume FA" /></a>
 </p>
 
 ## 👨‍💻 About me
 
-- 💼 Embedded Systems Developer **@ Kian Pardaz Nagh-e Jahan** — building the sensing subsystem of a DCIM product
+- 💼 Embedded Systems Developer **@ Kian Pardaz Nagh-e Jahan** — developing the sensing subsystem of a DCIM product, from sensor drivers to production firmware
 - 🎓 B.Sc. in Computer Engineering (Intelligent Systems) — **Isfahan University of Technology**
-- 🌱 Into **TinyML / on-device learning**, IoT architecture and privacy-first, cloud-free systems
-- ⚡ Final project: a smart home whose face recognition and behavior learning run **entirely on the MCU** — no cloud
+- 🌱 Exploring **TinyML / on-device learning** and IoT architecture — bringing intelligence to where the data is born
+- ⚡ B.Sc. capstone: a smart home running **face recognition and behavior learning entirely on the MCU** — cloud-free by design
 
 ## 🚀 Featured projects
 
