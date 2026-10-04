@@ -10,14 +10,14 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="assets/linkedin-icon.png" width="20" height="20" alt="LinkedIn" />&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
-  <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="assets/gmail-icon.png" width="20" height="20" alt="Gmail" />&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square" alt="Gmail" /></a>
-  <a href="https://t.me/MSoroushRabiei"><img src="assets/telegram-icon.png" width="20" height="20" alt="Telegram" />&nbsp;<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="assets/linkedin-icon.png" width="20" height="20" alt="LinkedIn" />&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="assets/gmail-icon.png" width="20" height="20" alt="Gmail" />&nbsp;<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://t.me/MSoroushRabiei"><img src="assets/telegram-icon.png" width="20" height="20" alt="Telegram" />&nbsp;<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square" alt="Telegram" /></a>&nbsp;&nbsp;
   <a href="https://ble.ir/msoroushrabiei"><img src="assets/bale-icon.png" width="20" height="20" alt="Bale" />&nbsp;<img src="https://img.shields.io/badge/Bale-00A9B5?style=flat-square" alt="Bale" /></a>
 </p>
 
 <p align="center">
-  <a href="assets/Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_EN-1E293B?style=flat-square&logo=googledocs&logoColor=white" alt="Resume EN" /></a>
+  <a href="assets/Resume_EN.pdf"><img src="https://img.shields.io/badge/Resume_EN-1E293B?style=flat-square&logo=googledocs&logoColor=white" alt="Resume EN" /></a>&nbsp;&nbsp;
   <a href="assets/Resume_FA.pdf"><img src="https://img.shields.io/badge/Resume_FA-1E293B?style=flat-square&logo=googledocs&logoColor=white" alt="Resume FA" /></a>
 </p>
 
