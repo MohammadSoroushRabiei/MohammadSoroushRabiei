@@ -54,7 +54,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python&perline=3" width="94" height="28" alt="C · C++ · Python" /> <img src="assets/espidf-icon.png" width="28" height="28" alt="ESP-IDF" /> <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch,cmake,git,docker,linux&perline=7" width="223" height="28" alt="Arduino · OpenCV · PyTorch · CMake · Git · Docker · Linux" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python&perline=3" width="124" height="36" alt="C · C++ · Python" /> <img src="assets/espidf-icon.png" width="36" height="36" alt="ESP-IDF" /> <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch,cmake,git,docker,linux&perline=7" width="290" height="36" alt="Arduino · OpenCV · PyTorch · CMake · Git · Docker · Linux" />
 
 **Embedded & RTOS** — ![STM32](https://img.shields.io/badge/STM32%20F4%2FF7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-2dc5f7?style=flat-square&logo=espressif&logoColor=white) ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2B6CB0?style=flat-square) ![LVGL](https://img.shields.io/badge/LVGL-18BC9C?style=flat-square&logo=lvgl&logoColor=white)
 
