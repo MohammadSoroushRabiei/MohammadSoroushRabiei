@@ -1,19 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="236" viewBox="0 0 880 236" role="img" aria-label="About: B.Sc. in Computer Engineering at Isfahan University of Technology; exploring TinyML and on-device learning; capstone smart home with on-MCU face recognition">
-<title>About: B.Sc. in Computer Engineering at Isfahan University of Technology; exploring TinyML and on-device learning; capstone smart home with on-MCU face recognition</title>
-<style>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="246" viewBox="0 0 880 246" role="img" aria-label="B.Sc. in Computer Engineering (Intelligent Systems) at Isfahan University of Technology. Exploring TinyML, on-device learning and IoT architecture. B.Sc. capstone: a cloud-free smart home running face recognition and behavior learning on the MCU.">
+<title>B.Sc. in Computer Engineering (Intelligent Systems) at Isfahan University of Technology. Exploring TinyML, on-device learning and IoT architecture. B.Sc. capstone: a cloud-free smart home running face recognition and behavior learning on the MCU.</title>
+<defs><style>
 text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
-.card{fill:#F6F8FA;stroke:#D0D7DE;stroke-width:1.2}
-.line{stroke:#D0D7DE;stroke-width:1}
-.t1{fill:#1F2328}.t2{fill:#59636E}.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
-.chip{fill:#0E7C7B;fill-opacity:.09;stroke:#0E7C7B;stroke-opacity:.35;stroke-width:1}
-.chipt{fill:#0B5E5D}.dot{fill:#0E7C7B}
-.g1{stop-color:#0E7C7B}.g2{stop-color:#0D1B2A}
+.mono{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+:root{--b1:#FFFFFF;--b2:#E9F4F4}
+.bg1{stop-color:#FFFFFF}.bg2{stop-color:#E6F3F3}
+.s1{stop-color:#0E7C7B}.s2{stop-color:#7FB9C9}
+.glow{stop-color:#0E7C7B;stop-opacity:.20}.glow0{stop-color:#0E7C7B;stop-opacity:0}
+.t1{fill:#0D1B2A}.t2{fill:#4A5B6B}.t3{fill:#7A8A99}
+.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
+.chip{fill:#0E7C7B;fill-opacity:.10;stroke:#0E7C7B;stroke-opacity:.38;stroke-width:1}
+.chipt{fill:#0B5E5D}
+.pnl{fill:#0E7C7B;fill-opacity:.05;stroke:#0E7C7B;stroke-opacity:.18;stroke-width:1}
+.dotg{fill:#0E7C7B;fill-opacity:.16}
+.sep{stroke:#0E7C7B;stroke-opacity:.2;stroke-width:1}
 @media (prefers-color-scheme:dark){
-.card{fill:#161B22;stroke:#30363D}.line{stroke:#30363D}
-.t1{fill:#E6EDF3}.t2{fill:#9198A1}.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
-.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.38}
-.chipt{fill:#7EE8D8}.dot{fill:#2DD4BF}
-.g1{stop-color:#14A39F}.g2{stop-color:#0D1B2A}}
+.bg1{stop-color:#111C2A}.bg2{stop-color:#0A121C}
+.s1{stop-color:#2DD4BF}.s2{stop-color:#3B6FA0}
+.glow{stop-color:#2DD4BF;stop-opacity:.16}.glow0{stop-color:#2DD4BF;stop-opacity:0}
+.t1{fill:#EAF2F8}.t2{fill:#A9B7C4}.t3{fill:#6F8091}
+.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
+.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.40}
+.chipt{fill:#7EE8D8}
+.pnl{fill:#2DD4BF;fill-opacity:.045;stroke:#2DD4BF;stroke-opacity:.16}
+.dotg{fill:#2DD4BF;fill-opacity:.14}
+.sep{stroke:#2DD4BF;stroke-opacity:.18}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
 </style>
-<g transform="translate(0 6)"><rect x="1" y="1" width="878" height="222" rx="14" class="card"/><circle cx="46" cy="44.0" r="19" class="chip"/><g transform="translate(34 32.0) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4 22 9l-10 5L2 9z"/><path d="M6 11.5v4c0 1.6 2.7 3 6 3s6-1.4 6-3v-4"/></g><text x="84" y="49.5" font-size="15.5" class="t1"><tspan>B.Sc. in Computer Engineering (Intelligent Systems) — </tspan><tspan font-weight="700">Isfahan University of Technology</tspan></text><line x1="84" y1="77" x2="850" y2="77" class="line"/><circle cx="46" cy="111.0" r="19" class="chip"/><g transform="translate(34 99.0) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21v-9"/><path d="M12 12c0-4 3-7 8-7 0 5-3 8-8 7z"/><path d="M12 15c0-3-2-5-6-5 0 4 2 6 6 5z"/></g><text x="84" y="105.0" font-size="15.5" class="t1"><tspan>Exploring </tspan><tspan font-weight="700">TinyML / on-device learning </tspan><tspan>and IoT architecture — bringing intelligence to where the data</tspan></text><text x="84" y="128.0" font-size="15.5" class="t1"><tspan>is born</tspan></text><line x1="84" y1="145" x2="850" y2="145" class="line"/><circle cx="46" cy="179.0" r="19" class="chip"/><g transform="translate(34 167.0) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4 14h7l-1 8 10-13h-7z"/></g><text x="84" y="173.0" font-size="15.5" class="t1"><tspan>B.Sc. capstone: a smart home running </tspan><tspan font-weight="700">face recognition and behavior learning entirely on the MCU</tspan></text><text x="84" y="196.0" font-size="15.5" class="t1"><tspan>— cloud-free by design</tspan></text></g>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="bg1"/><stop offset="1" class="bg2"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="s1"/><stop offset="1" class="s2"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" class="s1"/><stop offset="1" class="s1" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="0" cy="0" r="1" gradientUnits="objectBoundingBox" fx="0" fy="0"><stop offset="0" class="glow"/><stop offset="1" class="glow0"/></radialGradient>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" class="dotg"/></pattern></defs>
+<rect x="3" y="3" width="874" height="240" rx="16" fill="url(#bg)"/><rect x="3" y="3" width="874" height="240" rx="16" fill="url(#dots)" opacity=".55"/><ellipse cx="13" cy="7" rx="480.70000000000005" ry="240.0" fill="url(#gl)"/><rect x="3" y="3" width="874" height="240" rx="16" fill="none" stroke="url(#bd)" stroke-width="1.4"/><circle cx="52" cy="62.0" r="22" class="chip"/><g transform="translate(40 50.0) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4 22 9l-10 5L2 9z"/><path d="M6 11.5v4c0 1.6 2.7 3 6 3s6-1.4 6-3v-4"/></g><text x="92" y="67.0" font-size="15.5" class="t1" ><tspan>B.Sc. in Computer Engineering (Intelligent Systems) — </tspan><tspan font-weight="700" class="ac">Isfahan University of Technology</tspan></text><line x1="92" y1="96" x2="846" y2="96" class="sep"/><circle cx="52" cy="132.0" r="22" class="chip"/><g transform="translate(40 120.0) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="7" width="10" height="10" rx="1.5"/><path d="M10 3v4M14 3v4M10 17v4M14 17v4M3 10h4M3 14h4M17 10h4M17 14h4"/></g><text x="92" y="128.0" font-size="15.5" class="t1" ><tspan>Exploring </tspan><tspan font-weight="700" class="ac">TinyML / on-device learning</tspan><tspan> and IoT architecture — bringing intelligence</tspan></text><text x="92" y="149.0" font-size="15.5" class="t1">to where the data is born</text><line x1="92" y1="166" x2="846" y2="166" class="sep"/><circle cx="52" cy="202.0" r="22" class="chip"/><g transform="translate(40 190.0) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11l9-8 9 8M5 10v10h14V10M10 20v-6h4v6"/></g><text x="92" y="198.0" font-size="15.5" class="t1" ><tspan>B.Sc. capstone: a </tspan><tspan font-weight="700" class="ac">cloud-free smart home</tspan><tspan> running face recognition and</tspan></text><text x="92" y="219.0" font-size="15.5" class="t1">behavior learning entirely on the MCU</text>
 </svg>

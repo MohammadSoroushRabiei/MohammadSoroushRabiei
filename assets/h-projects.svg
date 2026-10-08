@@ -1,19 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44" role="img" aria-label="Featured projects">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64" role="img" aria-label="Featured projects">
 <title>Featured projects</title>
-<style>
+<defs><style>
 text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
-.card{fill:#F6F8FA;stroke:#D0D7DE;stroke-width:1.2}
-.line{stroke:#D0D7DE;stroke-width:1}
-.t1{fill:#1F2328}.t2{fill:#59636E}.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
-.chip{fill:#0E7C7B;fill-opacity:.09;stroke:#0E7C7B;stroke-opacity:.35;stroke-width:1}
-.chipt{fill:#0B5E5D}.dot{fill:#0E7C7B}
-.g1{stop-color:#0E7C7B}.g2{stop-color:#0D1B2A}
+.mono{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+:root{--b1:#FFFFFF;--b2:#E9F4F4}
+.bg1{stop-color:#FFFFFF}.bg2{stop-color:#E6F3F3}
+.s1{stop-color:#0E7C7B}.s2{stop-color:#7FB9C9}
+.glow{stop-color:#0E7C7B;stop-opacity:.20}.glow0{stop-color:#0E7C7B;stop-opacity:0}
+.t1{fill:#0D1B2A}.t2{fill:#4A5B6B}.t3{fill:#7A8A99}
+.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
+.chip{fill:#0E7C7B;fill-opacity:.10;stroke:#0E7C7B;stroke-opacity:.38;stroke-width:1}
+.chipt{fill:#0B5E5D}
+.pnl{fill:#0E7C7B;fill-opacity:.05;stroke:#0E7C7B;stroke-opacity:.18;stroke-width:1}
+.dotg{fill:#0E7C7B;fill-opacity:.16}
+.sep{stroke:#0E7C7B;stroke-opacity:.2;stroke-width:1}
 @media (prefers-color-scheme:dark){
-.card{fill:#161B22;stroke:#30363D}.line{stroke:#30363D}
-.t1{fill:#E6EDF3}.t2{fill:#9198A1}.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
-.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.38}
-.chipt{fill:#7EE8D8}.dot{fill:#2DD4BF}
-.g1{stop-color:#14A39F}.g2{stop-color:#0D1B2A}}
+.bg1{stop-color:#111C2A}.bg2{stop-color:#0A121C}
+.s1{stop-color:#2DD4BF}.s2{stop-color:#3B6FA0}
+.glow{stop-color:#2DD4BF;stop-opacity:.16}.glow0{stop-color:#2DD4BF;stop-opacity:0}
+.t1{fill:#EAF2F8}.t2{fill:#A9B7C4}.t3{fill:#6F8091}
+.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
+.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.40}
+.chipt{fill:#7EE8D8}
+.pnl{fill:#2DD4BF;fill-opacity:.045;stroke:#2DD4BF;stroke-opacity:.16}
+.dotg{fill:#2DD4BF;fill-opacity:.14}
+.sep{stroke:#2DD4BF;stroke-opacity:.18}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
 </style>
-<defs><linearGradient id="l" x1="235" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" class="g1" stop-opacity=".75"/><stop offset="1" class="g1" stop-opacity="0"/></linearGradient></defs><rect x="1" y="9" width="5" height="26" rx="2.5" class="ac"/><text x="18" y="30" font-size="22" font-weight="700" class="t1">Featured projects</text><line x1="235" y1="22" x2="880" y2="22" stroke="url(#l)" stroke-width="2" stroke-linecap="round"/>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="bg1"/><stop offset="1" class="bg2"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="s1"/><stop offset="1" class="s2"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" class="s1"/><stop offset="1" class="s1" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="0" cy="0" r="1" gradientUnits="objectBoundingBox" fx="0" fy="0"><stop offset="0" class="glow"/><stop offset="1" class="glow0"/></radialGradient>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" class="dotg"/></pattern></defs>
+<circle cx="34" cy="32" r="20" class="chip"/><g transform="translate(22 20) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 19c0-3 1-4 3-5l-3-3c3-6 8-7 14-7 0 6-1 11-7 14l-3-3c-1 2-2 3-4 4z"/><circle cx="15" cy="9" r="1.5"/></g>
+<text x="66" y="27" font-size="11.5" font-weight="600" letter-spacing="2.6" class="ac mono">03 / FEATURED PROJECTS</text>
+<text x="66" y="51" font-size="22" font-weight="800" class="t1">Featured projects</text>
+<rect x="314" y="38" width="560" height="2" rx="1" fill="url(#ln)"/>
+<circle cx="314" cy="39" r="4" class="ac pulse"/>
 </svg>

@@ -1,19 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="54" viewBox="0 0 880 54" role="img" aria-label="Isfahan, Iran · Kian Pardaz Nagh-e Jahan · Persian, English B2, Chinese basic">
-<title>Isfahan, Iran · Kian Pardaz Nagh-e Jahan · Persian, English B2, Chinese basic</title>
-<style>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="84" viewBox="0 0 880 84" role="img" aria-label="Isfahan, Iran · Kian Pardaz Nagh-e Jahan · Persian, English (B2), Chinese (basic)">
+<title>Isfahan, Iran · Kian Pardaz Nagh-e Jahan · Persian, English (B2), Chinese (basic)</title>
+<defs><style>
 text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
-.card{fill:#F6F8FA;stroke:#D0D7DE;stroke-width:1.2}
-.line{stroke:#D0D7DE;stroke-width:1}
-.t1{fill:#1F2328}.t2{fill:#59636E}.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
-.chip{fill:#0E7C7B;fill-opacity:.09;stroke:#0E7C7B;stroke-opacity:.35;stroke-width:1}
-.chipt{fill:#0B5E5D}.dot{fill:#0E7C7B}
-.g1{stop-color:#0E7C7B}.g2{stop-color:#0D1B2A}
+.mono{font-family:'JetBrains Mono','SF Mono',Consolas,'Courier New',monospace}
+:root{--b1:#FFFFFF;--b2:#E9F4F4}
+.bg1{stop-color:#FFFFFF}.bg2{stop-color:#E6F3F3}
+.s1{stop-color:#0E7C7B}.s2{stop-color:#7FB9C9}
+.glow{stop-color:#0E7C7B;stop-opacity:.20}.glow0{stop-color:#0E7C7B;stop-opacity:0}
+.t1{fill:#0D1B2A}.t2{fill:#4A5B6B}.t3{fill:#7A8A99}
+.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
+.chip{fill:#0E7C7B;fill-opacity:.10;stroke:#0E7C7B;stroke-opacity:.38;stroke-width:1}
+.chipt{fill:#0B5E5D}
+.pnl{fill:#0E7C7B;fill-opacity:.05;stroke:#0E7C7B;stroke-opacity:.18;stroke-width:1}
+.dotg{fill:#0E7C7B;fill-opacity:.16}
+.sep{stroke:#0E7C7B;stroke-opacity:.2;stroke-width:1}
 @media (prefers-color-scheme:dark){
-.card{fill:#161B22;stroke:#30363D}.line{stroke:#30363D}
-.t1{fill:#E6EDF3}.t2{fill:#9198A1}.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
-.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.38}
-.chipt{fill:#7EE8D8}.dot{fill:#2DD4BF}
-.g1{stop-color:#14A39F}.g2{stop-color:#0D1B2A}}
+.bg1{stop-color:#111C2A}.bg2{stop-color:#0A121C}
+.s1{stop-color:#2DD4BF}.s2{stop-color:#3B6FA0}
+.glow{stop-color:#2DD4BF;stop-opacity:.16}.glow0{stop-color:#2DD4BF;stop-opacity:0}
+.t1{fill:#EAF2F8}.t2{fill:#A9B7C4}.t3{fill:#6F8091}
+.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
+.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.40}
+.chipt{fill:#7EE8D8}
+.pnl{fill:#2DD4BF;fill-opacity:.045;stroke:#2DD4BF;stroke-opacity:.16}
+.dotg{fill:#2DD4BF;fill-opacity:.14}
+.sep{stroke:#2DD4BF;stroke-opacity:.18}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.pulse{animation:pulse 2.4s ease-in-out infinite}
 </style>
-<rect x="1.0" y="6" width="170.2" height="42" rx="21" class="card"/><g transform="translate(19 15) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a7 7 0 0 0-7 7c0 5 7 13 7 13s7-8 7-13a7 7 0 0 0-7-7z"/><circle cx="12" cy="9" r="2.4"/></g><text x="53.0" y="32" font-size="14.5" font-weight="600" class="t1">Isfahan, Iran</text><rect x="183.2" y="6" width="274.7" height="42" rx="21" class="card"/><g transform="translate(201.239846875 15) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2M3 13h18"/></g><text x="235.2" y="32" font-size="14.5" font-weight="600" class="t1">Kian Pardaz Nagh-e Jahan</text><rect x="469.9" y="6" width="369.5" height="42" rx="21" class="card"/><g transform="translate(487.90253125000004 15) scale(1.0)" fill="none" class="acs" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h16a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-8l-5 4v-4H4a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1z"/><path d="M8 10h8M8 13h5"/></g><text x="521.9" y="32" font-size="14.5" font-weight="600" class="t1">Persian · English (B2) · Chinese (basic)</text>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="bg1"/><stop offset="1" class="bg2"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="s1"/><stop offset="1" class="s2"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" class="s1"/><stop offset="1" class="s1" stop-opacity="0"/></linearGradient>
+<radialGradient id="gl" cx="0" cy="0" r="1" gradientUnits="objectBoundingBox" fx="0" fy="0"><stop offset="0" class="glow"/><stop offset="1" class="glow0"/></radialGradient>
+<pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" class="dotg"/></pattern></defs>
+<rect x="3.0" y="3" width="211.0" height="78" rx="14" fill="url(#bg)"/><rect x="3.0" y="3" width="211.0" height="78" rx="14" fill="none" stroke="url(#bd)" stroke-width="1.3"/><circle cx="33.0" cy="42.0" r="18" class="chip"/><g transform="translate(22.2 31.2) scale(0.9)" fill="none" class="acs" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></g><text x="61.0" y="36.0" font-size="10" font-weight="700" letter-spacing="2" class="t3 mono">LOCATION</text><text x="61.0" y="56.0" font-size="14.5" font-weight="600" class="t1">Isfahan, Iran</text><rect x="229.0" y="3" width="291.3" height="78" rx="14" fill="url(#bg)"/><rect x="229.0" y="3" width="291.3" height="78" rx="14" fill="none" stroke="url(#bd)" stroke-width="1.3"/><circle cx="259.0" cy="42.0" r="18" class="chip"/><g transform="translate(248.2344827586207 31.2) scale(0.9)" fill="none" class="acs" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 21V5l8-2v18M12 9h8v12M7 8h2M7 12h2M7 16h2M15 13h2M15 17h2"/></g><text x="287.0" y="36.0" font-size="10" font-weight="700" letter-spacing="2" class="t3 mono">COMPANY</text><text x="287.0" y="56.0" font-size="14.5" font-weight="600" class="t1">Kian Pardaz Nagh-e Jahan</text><rect x="535.4" y="3" width="341.6" height="78" rx="14" fill="url(#bg)"/><rect x="535.4" y="3" width="341.6" height="78" rx="14" fill="none" stroke="url(#bd)" stroke-width="1.3"/><circle cx="565.4" cy="42.0" r="18" class="chip"/><g transform="translate(554.6367816091955 31.2) scale(0.9)" fill="none" class="acs" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3.5 3 14.5 0 18M12 3c-3 3.5-3 14.5 0 18"/></g><text x="593.4" y="36.0" font-size="10" font-weight="700" letter-spacing="2" class="t3 mono">LANGUAGES</text><text x="593.4" y="56.0" font-size="14.5" font-weight="600" class="t1">Persian · English (B2) · Chinese (basic)</text>
 </svg>
