@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <b>Embedded Systems Developer</b><br>
+  <b>Embedded Systems Developer</b> · Isfahan, Iran<br>
   <sub>Firmware · IoT · Edge AI on microcontrollers</sub>
 </p>
 
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>&nbsp;
-  <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="44" /></a>&nbsp;
-  <a href="https://t.me/MSoroushRabiei"><img src="assets/btn-telegram.svg" alt="Telegram" height="44" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a> 
+  <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="44" /></a> 
+  <a href="https://t.me/MSoroushRabiei"><img src="assets/btn-telegram.svg" alt="Telegram" height="44" /></a> 
   <a href="https://ble.ir/msoroushrabiei"><img src="assets/btn-bale.svg" alt="Bale" height="44" /></a>
 </p>
 
