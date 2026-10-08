@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohammadsoroushrabiei.github.io/MohammadSoroushRabiei/index.html"><img src="https://img.shields.io/badge/Resume-EN%20%7C%20FA-1E293B?style=flat-square&logo=googledocs&logoColor=white" alt="Resume (EN | FA)" /></a>
+  <a href="https://mohammadsoroushrabiei.github.io/MohammadSoroushRabiei/index.html"><img src="assets/resume-button.svg" alt="View Resume (EN | FA)" height="64" /></a>
 </p>
 
 ## 👨‍💻 About me
