@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mohammad Soroush Rabiei — Academic CV</title>
+<style>
+  @font-face { font-family:'Inter'; src:url('assets/fonts/inter-latin-400-normal.woff2') format('woff2'); font-weight:400; }
+  @font-face { font-family:'Inter'; src:url('assets/fonts/inter-latin-500-normal.woff2') format('woff2'); font-weight:500; }
+  @font-face { font-family:'Inter'; src:url('assets/fonts/inter-latin-600-normal.woff2') format('woff2'); font-weight:600; }
+  @font-face { font-family:'Inter'; src:url('assets/fonts/inter-latin-700-normal.woff2') format('woff2'); font-weight:700; }
+
+  :root{
+    --ink:#1E293B; --muted:#64748B; --accent:#0F766E; --line:#E2E8F0;
+  }
+  @page { size: A4; margin: 0; }
+  html, body { margin:0; padding:0; background:#ffffff; }
+  * { box-sizing:border-box; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+
+  body{ font-family:'Inter','Segoe UI',sans-serif; color:var(--ink); }
+  .page{ width:210mm; height:297mm; margin:0 auto; padding:11mm 14mm 9mm 14mm; background:#ffffff;
+         display:flex; flex-direction:column; }
+  .page2{ page-break-before:always; }
+  @media screen {
+    html{ background:#E5E7EB; }
+    .page{ margin:12px auto; box-shadow:0 2px 12px rgba(15,23,42,.18); }
+  }
+
+  a{ color:var(--accent); text-decoration:none; }
+
+  /* ---------- header ---------- */
+  .head{ text-align:center; padding-bottom:10px; border-bottom:2px solid var(--accent); }
+  h1{ margin:0; font-size:26px; font-weight:700; letter-spacing:.4px; color:#0F172A; }
+  .sub{ margin-top:4px; font-size:11px; color:var(--accent); font-weight:600; }
+  .contact{ margin-top:7px; font-size:9.8px; color:var(--muted); line-height:1.6; }
+  .contact .sep{ color:#94A3B8; margin:0 4px; }
+
+  /* ---------- sections ---------- */
+  .sec{ margin-top:17px; }
+  .sec-title{ font-size:11.4px; font-weight:700; color:var(--accent); letter-spacing:1.8px; text-transform:uppercase;
+              border-bottom:1px solid var(--line); padding-bottom:4px; margin-bottom:10px; }
+  p{ margin:0; font-size:10.6px; line-height:1.7; }
+
+  .edu-inst{ font-size:11.4px; font-weight:700; color:#0F172A; }
+  .edu-row{ display:flex; justify-content:space-between; align-items:baseline; gap:10px; margin-top:1px; }
+  .edu-deg{ font-size:10.8px; font-weight:600; }
+  .dates{ font-size:9.8px; color:var(--muted); white-space:nowrap; font-weight:500; }
+  ul.bul{ margin:6px 0 0 0; padding-left:14px; }
+  ul.bul li{ font-size:10.5px; line-height:1.62; margin-bottom:6px; }
+  ul.bul li::marker{ color:var(--accent); }
+  .sub-item{ margin-top:9px; }
+  .repo{ color:var(--muted); font-size:9.4px; }
+  .edu-head{ display:flex; align-items:center; gap:12px; }
+  .edu-head .clogo{ height:11mm; width:11mm; object-fit:contain; flex:none; }
+
+  .proj{ margin-bottom:10px; }
+  .proj:last-child{ margin-bottom:0; }
+  .proj-head{ display:flex; justify-content:space-between; align-items:baseline; gap:10px; }
+  .proj-name{ font-size:11.2px; font-weight:600; color:#0F172A; }
+  .proj-name .tag{ font-weight:500; color:var(--accent); font-size:10px; }
+
+  .skills{ font-size:10.5px; line-height:1.85; }
+  .skills b{ font-weight:600; color:#0F172A; }
+
+  .spacer{ flex:1; }
+
+  /* ---------- conference participation ---------- */
+  .conf-row{ display:flex; align-items:center; gap:12px; }
+  .conf-cert{ width:34mm; height:auto; flex:none; border:1px solid var(--line); border-radius:3px; }
+  .conf-name{ font-size:11px; font-weight:600; color:#0F172A; line-height:1.5; }
+  .conf-sub{ font-size:9.6px; color:var(--muted); margin-top:2.5px; line-height:1.65; }
+</style>
+</head>
+<body>
+
+<div class="page">
+  <div class="head">
+    <h1>Mohammad Soroush Rabiei</h1>
+    <div class="sub">B.Sc. Graduate in Computer Engineering (Intelligent Systems) — Embedded Systems, IoT &amp; Edge AI</div>
+    <div class="contact">
+      Isfahan, Iran<span class="sep">·</span>+98 914 040 9147<span class="sep">·</span><a href="mailto:mohammadsoroushrabiei@gmail.com">mohammadsoroushrabiei@gmail.com</a><br>
+      <a href="https://github.com/MohammadSoroushRabiei">github.com/MohammadSoroushRabiei</a><span class="sep">·</span><a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/">linkedin.com/in/mohammad-soroush-rabiei-0138a6368</a>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Research Interests</div>
+    <p>Edge AI and TinyML on resource-constrained microcontrollers; embedded systems and IoT architecture; on-device (online) machine learning; privacy-first, cloud-free smart environments. My work sits at the intersection of AI algorithms and real hardware — from driver-level timing on STM32 to neural inference on an ESP32-S3.</p>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Education</div>
+
+    <div class="edu-head">
+      <img class="clogo" src="assets/iut_circle.png" alt="IUT">
+      <div>
+        <div class="edu-inst">Isfahan University of Technology (IUT) <span style="font-weight:400;color:var(--muted);font-size:10px;">— Isfahan, Iran</span></div>
+        <div class="edu-row">
+          <div class="edu-deg">B.Sc. in Computer Engineering — Intelligent Systems track</div>
+          <div class="dates">2020 – 2026</div>
+        </div>
+      </div>
+    </div>
+    <ul class="bul">
+      <li>Final project: <i>“Design and Implementation of an IoT-Based Smart Home System with Edge AI Processing and a Fully Local, Cloud-Free Infrastructure”</i> — supervisor: Dr. Amir Khorsandi (Sep 2026). <span class="repo"><img src="assets/logos/github.png" style="height:8px;width:auto;vertical-align:-1px;margin-right:3px;" alt="">github.com/MohammadSoroushRabiei/Smart-Home</span></li>
+      <li>Selected coursework: Internet of Things; Machine Learning Laboratory.</li>
+    </ul>
+
+    <div class="sub-item">
+      <div class="edu-head">
+        <img class="clogo" src="assets/sampad_circle.png" alt="SAMPAD">
+        <div style="flex:1;">
+          <div class="edu-row">
+            <div class="edu-deg" style="font-weight:600;">National Organization for Development of Exceptional Talents (NODET / SAMPAD) High School — Isfahan, Iran</div>
+            <div class="dates">2014 – 2018</div>
+          </div>
+        </div>
+      </div>
+      <ul class="bul">
+        <li>Diploma in Mathematics &amp; Physics — GPA 19/20; admitted through the national gifted-students entrance examination.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Projects &amp; Engineering Work</div>
+
+    <div class="proj">
+      <div class="proj-head">
+        <div class="proj-name">IoT-Based Smart Home with On-Device Edge AI <span class="tag">· B.Sc. final project</span></div>
+        <div class="dates">2026</div>
+      </div>
+      <ul class="bul">
+        <li>Designed and built a privacy-first, cloud-free smart-home platform on ESP32-S3 (ESP-IDF, multi-core FreeRTOS). <span class="repo"><img src="assets/logos/github.png" style="height:8px;width:auto;vertical-align:-1px;margin-right:3px;" alt="">github.com/MohammadSoroushRabiei/Smart-Home</span></li>
+        <li>On-chip face recognition with ESP-DL (hardware JPEG decode → embedding → matching) — the user's phone camera doubles as the image sensor via a QR-secured HTTPS login, so face data never leaves the home network.</li>
+        <li>On-chip self-learning behavior agent: two logistic-regression models (94.2% / 93.6% validation accuracy) with online SGD persisted to NVS.</li>
+        <li>Fully local service stack (Mosquitto MQTT, Home Assistant, FastAPI + SQLite) via Docker with four UI channels (LVGL touchscreen, HTTPS web panel, Home Assistant dashboard/app), plus a face-based attendance system — documented in a 53-page report.</li>
+      </ul>
+    </div>
+
+    <div class="proj">
+      <div class="proj-head">
+        <div class="proj-name">Non-Blocking STM32 Peripheral Drivers (open source) <span class="tag">· developed in industry, released publicly</span></div>
+        <div class="dates">2026</div>
+      </div>
+      <ul class="bul">
+        <li><b>DHT22/AM2302 driver</b> — timer input-capture + DMA waveform acquisition (zero-CPU capture, no blocking bit-banging), modular multi-sensor state machine with checksum validation; tested on STM32F407/F767. <span class="repo"><img src="assets/logos/github.png" style="height:8px;width:auto;vertical-align:-1px;margin-right:3px;" alt="">github.com/MohammadSoroushRabiei/STM32-DHT22-Driver</span></li>
+        <li><b>Modbus RTU master over RS-485</b> — UART + DMA with IDLE-line framing, hardware DE control, CRC16 lookup, exception-frame detection and error recovery; validated against slave simulators on a real RS-485 bus. <span class="repo"><img src="assets/logos/github.png" style="height:8px;width:auto;vertical-align:-1px;margin-right:3px;" alt="">github.com/MohammadSoroushRabiei/STM32-Modbus-RTU</span></li>
+        <li>Both repositories are fully documented (detailed READMEs with CubeMX configuration tables, API reference, Doxygen).</li>
+      </ul>
+    </div>
+
+    <div class="proj">
+      <div class="proj-head">
+        <div class="proj-name">IoT Smart Room Control System <span class="tag">· IoT course project</span></div>
+        <div class="dates">2025</div>
+      </div>
+      <ul class="bul">
+        <li>Remote monitoring and control of a room (lights, fan, temperature) on ESP8266 via the Blynk platform, with Android and web dashboards. <span class="repo"><img src="assets/logos/github.png" style="height:8px;width:auto;vertical-align:-1px;margin-right:3px;" alt="">github.com/MohammadSoroushRabiei/IoT_SmartRoom_ESP8266</span></li>
+      </ul>
+    </div>
+
+  </div>
+
+  <div class="spacer"></div>
+</div>
+
+<div class="page page2">
+  <div class="sec">
+    <div class="sec-title">Professional Experience</div>
+    <div class="edu-row">
+      <div class="edu-deg">Embedded Systems Developer — Kian Pardaz Nagh-e Jahan (Kian Pardaz ICT) <span style="font-weight:400;color:var(--muted);">· Isfahan</span></div>
+      <div class="dates">Jul 2026 – Present</div>
+    </div>
+    <ul class="bul">
+      <li>Own the sensing subsystem of a DCIM (data-center infrastructure management) product: sensor research/selection and production STM32 drivers (details under “Non-Blocking STM32 Peripheral Drivers”).</li>
+    </ul>
+    <div class="edu-row" style="margin-top:6px;">
+      <div class="edu-deg">Embedded Systems Intern — Behbood Ertebat Chehelsotoon Co. (Behamad) <span style="font-weight:400;color:var(--muted);">· Isfahan</span></div>
+      <div class="dates">Jun 2025 – Sep 2025</div>
+    </div>
+    <ul class="bul">
+      <li>Developed firmware for a smart-city (municipal IoT) device on STM32 with LoRaWAN and GSM (SIM800) connectivity; implemented MQTT-based smart-thermostat integration.</li>
+    </ul>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Technical Skills</div>
+    <div class="skills">
+      <b>Programming:</b> C, Embedded C, C++, Python<br>
+      <b>Embedded platforms:</b> STM32 (F4/F7), ESP32 / ESP32-S3, ESP8266 — STM32CubeMX/IDE, Keil MDK, ESP-IDF<br>
+      <b>Peripherals &amp; protocols:</b> UART, I²C, RS-485, Modbus RTU, MQTT, timer input capture, DMA<br>
+      <b>RTOS &amp; concurrency:</b> FreeRTOS (multi-core tasks, queues, semaphores, task watchdogs)<br>
+      <b>ML / AI:</b> PyTorch and classic ML (coursework); OpenCV (in progress); ESP-DL on-device inference<br>
+      <b>Tooling &amp; practices:</b> Git, Doxygen, logic analyzer, ST-LINK debugging, Docker (local service deployment), simulator-based protocol testing
+    </div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Honors</div>
+    <ul class="bul">
+      <li>Admitted to NODET (National Organization for Development of Exceptional Talents) high school via the national gifted-students entrance examination.</li>
+    </ul>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Languages</div>
+    <div class="skills"><img src="assets/flags/ir.png" style="height:9px;" alt="Iran"> <b>Persian</b> — native &nbsp;·&nbsp; <img src="assets/flags/gb.png" style="height:9px;" alt="UK"> <b>English</b> — upper-intermediate (B2) &nbsp;·&nbsp; <img src="assets/flags/cn.png" style="height:9px;" alt="China"> <b>Chinese</b> — elementary (≈HSK 2)</div>
+  </div>
+
+  <div class="sec">
+    <div class="sec-title">Conference Participation</div>
+    <div class="conf-row">
+      <img class="conf-cert" src="assets/cert_iot2025.jpg" alt="IoT 2025 certificate">
+      <div>
+        <div class="conf-name">The 9th International Conference on Internet of Things and Its Application (IoT 2025)</div>
+        <div class="conf-sub">Certificate of Participation — actively participated in the Scientific Program (keynote speeches, invited talks, technical paper presentation sessions and networking events) · University of Isfahan, Isfahan, Iran · Oct 29–30, 2025 · Certificate No. 151443/1404</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+</div>
+
+</body>
+</html>
