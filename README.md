@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <b>Embedded Systems Developer</b> · Isfahan, Iran<br>
+  <b>Embedded Systems Developer</b><br>
   <sub>Firmware · IoT · Edge AI on microcontrollers</sub>
 </p>
 
