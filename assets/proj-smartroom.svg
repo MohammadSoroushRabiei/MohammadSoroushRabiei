@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="210" viewBox="0 0 440 210" role="img" aria-label="IoT Smart Room — IoT course project. ESP8266 + Blynk remote room control &amp; monitoring — lights, fan and temperature">
+<title>IoT Smart Room — IoT course project. ESP8266 + Blynk remote room control &amp; monitoring — lights, fan and temperature</title>
+<style>
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.card{fill:#F6F8FA;stroke:#D0D7DE;stroke-width:1.2}
+.line{stroke:#D0D7DE;stroke-width:1}
+.t1{fill:#1F2328}.t2{fill:#59636E}.ac{fill:#0E7C7B}.acs{stroke:#0E7C7B}
+.chip{fill:#0E7C7B;fill-opacity:.09;stroke:#0E7C7B;stroke-opacity:.35;stroke-width:1}
+.chipt{fill:#0B5E5D}.dot{fill:#0E7C7B}
+.g1{stop-color:#0E7C7B}.g2{stop-color:#0D1B2A}
+@media (prefers-color-scheme:dark){
+.card{fill:#161B22;stroke:#30363D}.line{stroke:#30363D}
+.t1{fill:#E6EDF3}.t2{fill:#9198A1}.ac{fill:#2DD4BF}.acs{stroke:#2DD4BF}
+.chip{fill:#2DD4BF;fill-opacity:.10;stroke:#2DD4BF;stroke-opacity:.38}
+.chipt{fill:#7EE8D8}.dot{fill:#2DD4BF}
+.g1{stop-color:#14A39F}.g2{stop-color:#0D1B2A}}
+</style>
+<rect x="6" y="6" width="428" height="198" rx="14" class="card"/><text x="28" y="44" font-size="18" font-weight="700" class="t1">IoT Smart Room</text><text x="28" y="65" font-size="12.5" font-weight="600" class="ac">IoT course project</text><circle cx="402" cy="38" r="14" class="chip"/><path d="M396 44l12-12M397 32h11v11" fill="none" class="acs" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><text x="28" y="98" font-size="14" class="t2"><tspan>ESP8266 + Blynk remote room control &amp;</tspan></text><text x="28" y="118" font-size="14" class="t2"><tspan>monitoring — lights, fan and temperature</tspan></text><rect x="28.0" y="156" width="78.8" height="26" rx="13.0" class="chip"/><text x="67.4" y="173.2" font-size="12" font-weight="600" text-anchor="middle" class="chipt">ESP8266</text><rect x="114.8" y="156" width="73.7" height="26" rx="13.0" class="chip"/><text x="151.6" y="173.2" font-size="12" font-weight="600" text-anchor="middle" class="chipt">Arduino</text><rect x="196.4" y="156" width="59.3" height="26" rx="13.0" class="chip"/><text x="226.1" y="173.2" font-size="12" font-weight="600" text-anchor="middle" class="chipt">Blynk</text>
+</svg>
