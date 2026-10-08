@@ -27,127 +27,37 @@
 
 <br>
 
-<h2 align="center">👨‍💻 About me</h2>
-
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <ul>
-        <li>🎓 B.Sc. in Computer Engineering (Intelligent Systems) — <b>Isfahan University of Technology</b></li>
-        <li>🌱 Exploring <b>TinyML / on-device learning</b> and IoT architecture — bringing intelligence to where the data is born</li>
-        <li>⚡ B.Sc. capstone: a smart home running <b>face recognition and behavior learning entirely on the MCU</b> — cloud-free by design</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%">
-      <b>At a glance</b><br><br>
-      📍 Isfahan, Iran<br>
-      💼 Kian Pardaz Nagh-e Jahan<br>
-      🗣️ Persian · English (B2) · Chinese (HSK 2)
-    </td>
-  </tr>
-</table>
+<img src="assets/h-about.svg" width="100%" alt="About me" />
+<img src="assets/about-card.svg" width="100%" alt="B.Sc. in Computer Engineering (Intelligent Systems) at Isfahan University of Technology. Exploring TinyML, on-device learning and IoT architecture. B.Sc. capstone: a cloud-free smart home running face recognition and behavior learning entirely on the MCU." />
+<img src="assets/about-facts.svg" width="100%" alt="Isfahan, Iran · Kian Pardaz Nagh-e Jahan · Persian, English (B2), Chinese (basic)" />
 
 <br>
 
-<h2 align="center">💼 Experience</h2>
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="110">
-      <img src="assets/kian_circle.png" width="56" height="56" alt="Kian Pardaz Nagh-e Jahan" /><br>
-      <sub>Jul 2026 –<br>Present</sub>
-    </td>
-    <td valign="top">
-      <b>Embedded Systems Developer</b> — Kian Pardaz Nagh-e Jahan<br>
-      <sub>Data-center infrastructure management (DCIM) product · Isfahan, Iran</sub>
-      <ul>
-        <li>Researched and selected temperature/humidity sensors for the product</li>
-        <li>STM32 drivers: <a href="https://github.com/MohammadSoroushRabiei/STM32-DHT22-Driver">DHT22</a> (non-blocking state machine + Timer Input Capture + DMA) and a <a href="https://github.com/MohammadSoroushRabiei/STM32-Modbus-RTU">Modbus RTU master</a> over RS-485</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="110">
-      <img src="assets/bahamad_circle.png" width="56" height="56" alt="Behamad" /><br>
-      <sub>Jun – Sep<br>2025</sub>
-    </td>
-    <td valign="top">
-      <b>Embedded Systems Intern</b> — Behbood Ertebat Chehelsotoon Co. (Behamad)<br>
-      <sub>Smart-city / municipal IoT · Isfahan, Iran</sub>
-      <ul>
-        <li>STM32 firmware for a smart-city device with LoRaWAN and a SIM800 GSM module</li>
-        <li>MQTT on STM32 to connect a smart thermostat to the platform</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="assets/h-experience.svg" width="100%" alt="Experience" />
+<img src="assets/exp-kian.svg" width="100%" alt="Embedded Systems Developer at Kian Pardaz Nagh-e Jahan, Jul 2026 – Present: DCIM sensor research, STM32 DHT22 and Modbus RTU drivers" />
+<img src="assets/exp-behamad.svg" width="100%" alt="Embedded Systems Intern at Behamad, Jun – Sep 2025: STM32 firmware with LoRaWAN and SIM800, MQTT smart thermostat" />
 
 <br>
 
-<h2 align="center">🚀 Featured projects</h2>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/MohammadSoroushRabiei/Smart-Home">🏠 Smart-Home</a></h3>
-      <sub>B.Sc. final project</sub><br><br>
-      Self-hosted smart home: on-device face recognition, on-chip self-learning agent, fully local MQTT / Home Assistant stack<br><br>
-      <img src="https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32/S3" />&nbsp;<img src="https://img.shields.io/badge/FreeRTOS-2B6CB0?style=flat-square" alt="FreeRTOS" />&nbsp;<img src="https://img.shields.io/badge/LVGL-18BC9C?style=flat-square&logo=lvgl&logoColor=white" alt="LVGL" />
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/MohammadSoroushRabiei/STM32-DHT22-Driver">🌡️ STM32-DHT22-Driver</a></h3>
-      <sub>Reusable sensor driver</sub><br><br>
-      Non-blocking DHT22/AM2302 driver — Timer Input Capture + DMA, multi-sensor state machine (F407 / F767)<br><br>
-      <img src="https://img.shields.io/badge/STM32%20F4%2FF7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32 F4/F7" />&nbsp;<img src="https://img.shields.io/badge/DMA-4C6EF5?style=flat-square" alt="DMA" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/MohammadSoroushRabiei/STM32-Modbus-RTU">🔌 STM32-Modbus-RTU</a></h3>
-      <sub>Industrial communication</sub><br><br>
-      Non-blocking Modbus RTU master over RS-485 — IDLE-line framing, CRC16, error recovery<br><br>
-      <img src="https://img.shields.io/badge/STM32%20F4%2FF7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32 F4/F7" />&nbsp;<img src="https://img.shields.io/badge/Modbus%20RTU-E4572E?style=flat-square" alt="Modbus RTU" />
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/MohammadSoroushRabiei/IoT_SmartRoom_ESP8266">📡 IoT Smart Room</a></h3>
-      <sub>IoT course project</sub><br><br>
-      ESP8266 + Blynk remote room control &amp; monitoring<br><br>
-      <img src="https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266" />&nbsp;<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-    </td>
-  </tr>
-</table>
+<img src="assets/h-projects.svg" width="100%" alt="Featured projects" />
+<p align="center">
+  <a href="https://github.com/MohammadSoroushRabiei/Smart-Home"><img src="assets/proj-smart-home.svg" width="49%" alt="Smart-Home — self-hosted edge-AI smart home on ESP32-S3" /></a>
+  <a href="https://github.com/MohammadSoroushRabiei/STM32-DHT22-Driver"><img src="assets/proj-dht22.svg" width="49%" alt="STM32-DHT22-Driver — non-blocking DHT22 driver" /></a>
+  <a href="https://github.com/MohammadSoroushRabiei/STM32-Modbus-RTU"><img src="assets/proj-modbus.svg" width="49%" alt="STM32-Modbus-RTU — non-blocking Modbus RTU master over RS-485" /></a>
+  <a href="https://github.com/MohammadSoroushRabiei/IoT_SmartRoom_ESP8266"><img src="assets/proj-smartroom.svg" width="49%" alt="IoT Smart Room — ESP8266 + Blynk room control" /></a>
+</p>
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
+<img src="assets/h-stack.svg" width="100%" alt="Tech stack" />
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python&perline=3" width="124" height="36" alt="C · C++ · Python" /> <img src="assets/espidf-icon.png" width="36" height="36" alt="ESP-IDF" /> <img src="https://skillicons.dev/icons?i=arduino,opencv,pytorch,cmake,git,docker,linux&perline=7" width="290" height="36" alt="Arduino · OpenCV · PyTorch · CMake · Git · Docker · Linux" />
 </p>
-
-<table>
-  <tr>
-    <td width="170"><b>Embedded &amp; RTOS</b></td>
-    <td><img src="https://img.shields.io/badge/STM32%20F4%2FF7-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />&nbsp;<img src="https://img.shields.io/badge/ESP32%20%2F%20S3-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />&nbsp;<img src="https://img.shields.io/badge/ESP8266-2dc5f7?style=flat-square&logo=espressif&logoColor=white" alt="ESP8266" />&nbsp;<img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-IDF" />&nbsp;<img src="https://img.shields.io/badge/FreeRTOS-2B6CB0?style=flat-square" alt="FreeRTOS" />&nbsp;<img src="https://img.shields.io/badge/LVGL-18BC9C?style=flat-square&logo=lvgl&logoColor=white" alt="LVGL" /></td>
-  </tr>
-  <tr>
-    <td width="170"><b>Protocols &amp; data</b></td>
-    <td><img src="https://img.shields.io/badge/UART%20%2F%20I%C2%B2C-5A5A5A?style=flat-square" alt="UART / I2C" />&nbsp;<img src="https://img.shields.io/badge/RS--485-E4572E?style=flat-square" alt="RS-485" />&nbsp;<img src="https://img.shields.io/badge/Modbus%20RTU-E4572E?style=flat-square" alt="Modbus RTU" />&nbsp;<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />&nbsp;<img src="https://img.shields.io/badge/DMA-4C6EF5?style=flat-square" alt="DMA" /></td>
-  </tr>
-  <tr>
-    <td width="170"><b>Toolchain &amp; debug</b></td>
-    <td><img src="https://img.shields.io/badge/Keil%20MDK-47A942?style=flat-square" alt="Keil MDK" />&nbsp;<img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square" alt="STM32CubeIDE" />&nbsp;<img src="https://img.shields.io/badge/STM32CubeMX-03234B?style=flat-square" alt="STM32CubeMX" />&nbsp;<img src="https://img.shields.io/badge/Doxygen-202432?style=flat-square&logo=doxygen&logoColor=white" alt="Doxygen" />&nbsp;<img src="https://img.shields.io/badge/ST--LINK-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="ST-LINK" />&nbsp;<img src="https://img.shields.io/badge/Logic%20Analyzer-5A5A5A?style=flat-square" alt="Logic Analyzer" />&nbsp;<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white" alt="Home Assistant" /></td>
-  </tr>
-  <tr>
-    <td width="170"><b>AI &amp; vision</b></td>
-    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;<img src="https://img.shields.io/badge/ESP--DL-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP-DL" /></td>
-  </tr>
-</table>
+<img src="assets/tech-stack.svg" width="100%" alt="Tech stack — Embedded & RTOS: STM32, ESP32, ESP8266, ESP-IDF, FreeRTOS, LVGL. Protocols: UART, I2C, RS-485, Modbus RTU, MQTT, LoRaWAN, DMA. Toolchain: Keil, STM32CubeIDE/MX, Doxygen, ST-LINK, Git, Home Assistant. AI: PyTorch, OpenCV, ESP-DL, TinyML." />
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
+<img src="assets/h-stats.svg" width="100%" alt="GitHub stats" />
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=MohammadSoroushRabiei&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" />
