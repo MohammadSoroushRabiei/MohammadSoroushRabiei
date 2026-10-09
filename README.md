@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a> 
-  <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="44" /></a> 
-  <a href="https://t.me/MSoroushRabiei"><img src="assets/btn-telegram.svg" alt="Telegram" height="44" /></a> 
+  <a href="https://www.linkedin.com/in/mohammad-soroush-rabiei-0138a6368/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>&nbsp;
+  <a href="mailto:mohammadsoroushrabiei@gmail.com"><img src="assets/btn-gmail.svg" alt="Gmail" height="44" /></a>&nbsp;
+  <a href="https://t.me/MSoroushRabiei"><img src="assets/btn-telegram.svg" alt="Telegram" height="44" /></a>&nbsp;
   <a href="https://ble.ir/msoroushrabiei"><img src="assets/btn-bale.svg" alt="Bale" height="44" /></a>
 </p>
 
@@ -29,7 +29,7 @@
 
 <img src="assets/h-about.svg" width="100%" alt="About me" />
 <img src="assets/about-card.svg" width="100%" alt="B.Sc. in Computer Engineering (Intelligent Systems) at Isfahan University of Technology. Exploring TinyML, on-device learning and IoT architecture. B.Sc. capstone: a cloud-free smart home running face recognition and behavior learning entirely on the MCU." />
-<img src="assets/about-facts.svg" width="100%" alt="Isfahan, Iran · Kian Pardaz Nagh-e Jahan · Persian, English (B2), Chinese (basic)" />
+<img src="assets/about-facts.svg" width="100%" alt="Based in Isfahan, Iran. Languages: Persian (native), English (Upper-Intermediate, B2), Chinese (Intermediate, HSK 3)" />
 
 <br>
 
