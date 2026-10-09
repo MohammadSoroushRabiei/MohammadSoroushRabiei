@@ -10,12 +10,12 @@
 </div>
 
 <p align="center">
-  <b>Embedded Systems Developer</b><br>
+  <b>Embedded Systems Developer</b> · Isfahan, Iran<br>
   <sub>Firmware · IoT · Edge AI on microcontrollers</sub>
 </p>
 
 <p align="center">
-  <a href="https://mohammadsoroushrabiei.github.io/MohammadSoroushRabiei/index.html"><img src="assets/resume-button.svg" alt="View Resume (EN | FA)" height="64" /></a>
+  <a href="https://mohammadsoroushrabiei.github.io/MohammadSoroushRabiei/index.html"><img src="assets/resume-button.svg" alt="View Resume" height="64" /></a>
 </p>
 
 <p align="center">
