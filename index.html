@@ -145,6 +145,17 @@
   .resume-en .edu-mid { flex:1; }
   .resume-en .deg { font-size:11px; font-weight:700; color:#292524; }
   .resume-en .edu .loc { margin-top:1.5px; }
+  .clogo-round { border-radius:50%; object-fit:contain; background:#fff; border:1px solid #EADFD3; padding:1.2mm; }
+  /* compact certificates / education blocks */
+  .resume .sec.compact { margin-top:14px; }
+  .resume .sec.compact .sec-title { margin-bottom:7px; }
+  .resume .sec.compact .edu { gap:8px; margin-bottom:8px; }
+  .resume .sec.compact .edu:last-child { margin-bottom:0; }
+  .resume .sec.compact .edu .clogo { height:8.5mm; width:8.5mm; }
+  .resume .sec.compact .edu .clogo-round { padding:0.3mm; }
+  .resume .sec.compact .deg { font-size:10.3px; }
+  .resume .sec.compact .edu .loc { font-size:8.8px; margin-top:1px; }
+  .resume .sec.compact .dates { font-size:9px; }
     .resume-fa { --ink:#292524; --muted:#78716C; --accent:#A34A2A; --line:#EADFD3; --side-bg:#F6F1EA; --side-tx:#57534E; --side-ac:#A34A2A; --side-lnk:#8A5A3C; }
   .resume-fa h1, .resume-fa .sec-title { font-family:'Pinar','Vazirmatn',sans-serif; font-weight:900; }
   .resume-fa .headline, .resume-fa .s-title, .resume-fa .s-label, .resume-fa .loc .co, .resume-fa .proj-name, .resume-fa .deg { font-family:'Sahel','Vazirmatn',sans-serif; }
@@ -350,9 +361,30 @@
       </div>
     </div>
 
-    <div class="sec">
-      <div class="sec-title">Education & Certificates</div>
-      
+    <div class="sec compact">
+      <div class="sec-title">Certificates</div>
+
+      <div class="edu">
+        <a href="https://faradars.org/verify/689BC1F7" target="_blank"><img class="clogo clogo-round" src="assets/altium_logo.png" alt="" onerror="this.onerror=null;this.src='assets/faradars_circle.png'"></a>
+        <div class="edu-mid">
+          <div class="deg">PCB Design with Altium Designer (Essentials)</div>
+          <div class="loc">Certificate of Completion · FaraDars</div>
+        </div>
+        <div class="dates">Oct 2026</div>
+      </div>
+      <div class="edu">
+        <a href="https://github.com/MohammadSoroushRabiei/MohammadSoroushRabiei/blob/deac8690a1fe2f23f935e88bec7fcca62e2d2f66/assets/IoT%202025%20Conference%20Certificate.jpg" target="_blank"><img class="clogo" src="assets/cert_iot2025.jpg" alt=""></a>
+        <div class="edu-mid">
+          <div class="deg">Certificate of Participation — IoT 2025</div>
+          <div class="loc">The 9th International Conference on Internet of Things and Its Application · University of Isfahan</div>
+        </div>
+        <div class="dates">Oct 2025</div>
+      </div>
+    </div>
+
+    <div class="sec compact">
+      <div class="sec-title">Education</div>
+
       <div class="edu">
         <img class="clogo" src="assets/iut_circle.png" alt="">
         <div class="edu-mid">
@@ -368,14 +400,6 @@
           <div class="loc">NODET (SAMPAD) High School, Isfahan</div>
         </div>
         <div class="dates">2018</div>
-      </div>
-      <div class="edu">
-        <a href="https://github.com/MohammadSoroushRabiei/MohammadSoroushRabiei/blob/deac8690a1fe2f23f935e88bec7fcca62e2d2f66/assets/IoT%202025%20Conference%20Certificate.jpg" target="_blank"><img class="clogo" src="assets/cert_iot2025.jpg" alt=""></a>
-        <div class="edu-mid">
-          <div class="deg">Certificate of Participation — IoT 2025</div>
-          <div class="loc">The 9th International Conference on Internet of Things and Its Application · University of Isfahan</div>
-        </div>
-        <div class="dates">Oct 2025</div>
       </div>
     </div>
   </main>
@@ -465,9 +489,30 @@
       </div>
     </div>
 
-    <div class="sec">
-      <div class="sec-title">تحصیلات و گواهینامه‌ها</div>
-      
+    <div class="sec compact">
+      <div class="sec-title">گواهینامه‌ها</div>
+
+      <div class="edu">
+        <a href="https://faradars.org/verify/689BC1F7" target="_blank"><img class="clogo clogo-round" src="assets/altium_logo.png" alt="" onerror="this.onerror=null;this.src='assets/faradars_circle.png'"></a>
+        <div class="edu-mid">
+          <div class="deg">گواهینامه پایان دوره — آموزش مقدماتی طراحی مدار چاپی با <span class="ltr">Altium Designer</span></div>
+          <div class="loc">فرادرس</div>
+        </div>
+        <div class="dates">آبان ۱۴۰۵</div>
+      </div>
+      <div class="edu">
+        <a href="https://github.com/MohammadSoroushRabiei/MohammadSoroushRabiei/blob/deac8690a1fe2f23f935e88bec7fcca62e2d2f66/assets/IoT%202025%20Conference%20Certificate.jpg" target="_blank"><img class="clogo" src="assets/cert_iot2025.jpg" alt=""></a>
+        <div class="edu-mid">
+          <div class="deg">گواهینامه مشارکت — نهمین کنفرانس بین‌المللی اینترنت اشیا و کاربردها</div>
+          <div class="loc">(IoT 2025) · دانشگاه اصفهان · ۷ و ۸ آبان ۱۴۰۴</div>
+        </div>
+        <div class="dates">۱۴۰۴</div>
+      </div>
+    </div>
+
+    <div class="sec compact">
+      <div class="sec-title">تحصیلات</div>
+
       <div class="edu">
         <img class="clogo" src="assets/iut_circle.png" alt="">
         <div class="edu-mid">
@@ -483,14 +528,6 @@
           <div class="loc">دبیرستان استعدادهای درخشان (سمپاد)، اصفهان</div>
         </div>
         <div class="dates">۱۳۹۷</div>
-      </div>
-      <div class="edu">
-        <a href="https://github.com/MohammadSoroushRabiei/MohammadSoroushRabiei/blob/deac8690a1fe2f23f935e88bec7fcca62e2d2f66/assets/IoT%202025%20Conference%20Certificate.jpg" target="_blank"><img class="clogo" src="assets/cert_iot2025.jpg" alt=""></a>
-        <div class="edu-mid">
-          <div class="deg">گواهینامه مشارکت — نهمین کنفرانس بین‌المللی اینترنت اشیا و کاربردها</div>
-          <div class="loc">(IoT 2025) · دانشگاه اصفهان · ۷ و ۸ آبان ۱۴۰۴</div>
-        </div>
-        <div class="dates">۱۴۰۴</div>
       </div>
     </div>
   </main>
