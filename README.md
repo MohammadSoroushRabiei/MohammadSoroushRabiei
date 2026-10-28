@@ -42,9 +42,12 @@
 <img src="assets/h-projects.svg" width="100%" alt="Featured projects" />
 <p align="center">
   <a href="https://github.com/MohammadSoroushRabiei/Smart-Home"><img src="assets/proj-smart-home.svg" width="49%" alt="Smart-Home — self-hosted edge-AI smart home on ESP32-S3" /></a>
-  <a href="https://github.com/MohammadSoroushRabiei/STM32-DHT22-Driver"><img src="assets/proj-dht22.svg" width="49%" alt="STM32-DHT22-Driver — non-blocking DHT22 driver" /></a>
-  <a href="https://github.com/MohammadSoroushRabiei/STM32-Modbus-RTU"><img src="assets/proj-modbus.svg" width="49%" alt="STM32-Modbus-RTU — non-blocking Modbus RTU master over RS-485" /></a>
   <a href="https://github.com/MohammadSoroushRabiei/IoT_SmartRoom_ESP8266"><img src="assets/proj-smartroom.svg" width="49%" alt="IoT Smart Room — ESP8266 + Blynk room control" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/MohammadSoroushRabiei/STM32-DHT22-Driver"><img src="assets/proj-dht22.svg" width="32%" alt="STM32-DHT22-Driver — non-blocking DHT22 driver" /></a>
+  <a href="https://github.com/MohammadSoroushRabiei/STM32-Modbus-RTU"><img src="assets/proj-modbus.svg" width="32%" alt="STM32-Modbus-RTU — non-blocking Modbus RTU master over RS-485" /></a>
+  <a href="https://github.com/MohammadSoroushRabiei/STM32-HLW81xx"><img src="assets/proj-hlw81xx.svg" width="32%" alt="STM32-HLW81xx — HLW8110/HLW8112 power-metering driver for STM32 HAL and FreeRTOS" /></a>
 </p>
 
 <br>
